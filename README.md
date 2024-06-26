@@ -36,7 +36,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=islamhanii&" alt="islamhanii" /></p>
 
-<h3 align="left">Contact Me:</h3>
+<h3 align="left">Contact Me</h3>
 <p>Feel free to reach out for collaborations, project inquiries, or just to connect!</p>
 <ul>
   <li>Email: <a href="mailto:islamhani433@gmail.com" target="_blank">islamhani433@gmail.com</a></li>
