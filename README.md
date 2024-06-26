@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Islam Hani</h1>
-<h3 align="center">Backend Developer @ Art4Muslim</h3>
-<h3 align="center">🎓 IT graduate from Cairo University's Faculty of Computer and Artificial Intelligence | 🚀 Backend Developer | 💻 Passionate about crafting efficient and scalable solutions | 🌐 Web Enthusiast | Always exploring new technologies and seeking innovative ways to elevate the world of IT. Let's code the future together!</h3>
+<h3 align="center">Backend Developer</h3>
+<h3 align="center">🎓 IT graduate from Cairo University's Faculty of Computer and Artificial Intelligence | 🚀 Backend Developer | 💻 Passionate about crafting efficient and scalable solutions | 🌐 Always exploring new technologies and seeking innovative ways to elevate the world of IT. Let's code the future together!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=islamhanii&label=Profile%20views&color=0e75b6&style=flat" alt="islamhanii" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=islamhanii" alt="islamhanii" /></a> </p>
 
-- 💾 I’m deeply learning about database engineering, design pattern, clean architecture, and how to write clean code.
+- 💾 I’m deeply learning about backend engineering, design pattern, clean architecture, and how to write clean code.
 
 
 - 📫 How to reach me **islamhani433@gmail.com**
                                                                                              
-- ⚡ Fun fact **I like Footbal ⚽ and watching Movies & Series 🔥🔥**
+- ⚡ Fun fact **I like Football ⚽ and watching Movies & Series 🔥🔥**
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
@@ -35,3 +35,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=islamhanii&show_icons=true&locale=en" alt="islamhanii" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=islamhanii&" alt="islamhanii" /></p>
+
+<h3 align="left">Contact Me:</h3>
+<p>Feel free to reach out for collaborations, project inquiries, or just to connect!</p>
+<ul>
+  <li>Email: [islamhani433@gmail.com](mailto:islamhani433@gmail.com)</li>
+  <li>LinkedIn: [linkedin.com/in/islam-hani-2572131ab](https://linkedin.com/in/islam-hani-2572131ab)</li>
+  <li>GitHub: [github.com/islamhanii](https://github.com/islamhanii)</li>
+  <li>LeetCode: [leetcode.com/islamhani433](https://leetcode.com/islamhani433)</li>
+</ul>
