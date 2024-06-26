@@ -39,8 +39,8 @@
 <h3 align="left">Contact Me:</h3>
 <p>Feel free to reach out for collaborations, project inquiries, or just to connect!</p>
 <ul>
-  <li>Email: **islamhani433@gmail.com**</li>
-  <li>LinkedIn: **linkedin.com/in/islam-hani-2572131ab**</li>
-  <li>GitHub: [github.com/islamhanii](https://github.com/islamhanii)</li>
-  <li>LeetCode: [leetcode.com/islamhani433](https://leetcode.com/islamhani433)</li>
+  <li>Email: <a href="mailto:islamhani433@gmail.com" target="_blank" rel="noreferrer">islamhani433@gmail.com</a></li>
+  <li>LinkedIn: <a href="https://linkedin.com/in/islam-hani-2572131ab" target="_blank" rel="noreferrer">linkedin.com/in/islam-hani-2572131ab</a></li>
+  <li>GitHub: <a href="https://github.com/islamhanii" target="_blank" rel="noreferrer">github.com/islamhanii</a></li>
+  <li>LeetCode: <a href="https://leetcode.com/islamhani433" target="_blank" rel="noreferrer">leetcode.com/islamhani433</a></li>
 </ul>
