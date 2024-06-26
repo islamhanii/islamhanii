@@ -1,4 +1,4 @@
-![image](https://github.com/islamhanii/islamhanii/assets/36332875/4c1d1e31-2b6b-4da2-84fc-ceba9565e3bb)<h1 align="center">Hi 👋, I'm Islam Hani</h1>
+<h1 align="center">Hi 👋, I'm Islam Hani</h1>
 <h3 align="center">Backend Developer</h3>
 <h3 align="center">🎓 IT graduate from Cairo University's Faculty of Computer and Artificial Intelligence | 🚀 Backend Developer | 💻 Passionate about crafting efficient and scalable solutions | 🌐 Always exploring new technologies and seeking innovative ways to elevate the world of IT. Let's code the future together!</h3>
 
