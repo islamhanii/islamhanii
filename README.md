@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Islam Hani</h1>
+![image](https://github.com/islamhanii/islamhanii/assets/36332875/4c1d1e31-2b6b-4da2-84fc-ceba9565e3bb)<h1 align="center">Hi 👋, I'm Islam Hani</h1>
 <h3 align="center">Backend Developer</h3>
 <h3 align="center">🎓 IT graduate from Cairo University's Faculty of Computer and Artificial Intelligence | 🚀 Backend Developer | 💻 Passionate about crafting efficient and scalable solutions | 🌐 Always exploring new technologies and seeking innovative ways to elevate the world of IT. Let's code the future together!</h3>
 
@@ -35,11 +35,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=islamhanii&show_icons=true&locale=en" alt="islamhanii" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=islamhanii&" alt="islamhanii" /></p>
-
-<h3 align="left">Contact Me</h3>
-<p>Feel free to reach out for collaborations, project inquiries, or just to connect!</p>
-<ul>
-  <li>Email: <a href="mailto:islamhani433@gmail.com" target="_blank">islamhani433@gmail.com</a></li>
-  <li>LinkedIn: <a href="https://linkedin.com/in/islam-hani-2572131ab" target="_blank">linkedin.com/in/islam-hani-2572131ab</a></li>
-  <li>LeetCode: <a href="https://leetcode.com/islamhani433" target="_blank">leetcode.com/islamhani433</a></li>
-</ul>
