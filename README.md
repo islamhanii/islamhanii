@@ -39,8 +39,8 @@
 <h3 align="left">Contact Me:</h3>
 <p>Feel free to reach out for collaborations, project inquiries, or just to connect!</p>
 <ul>
-  <li>Email: [islamhani433@gmail.com](mailto:islamhani433@gmail.com)</li>
-  <li>LinkedIn: [linkedin.com/in/islam-hani-2572131ab](https://linkedin.com/in/islam-hani-2572131ab)</li>
+  <li>Email: **islamhani433@gmail.com**</li>
+  <li>LinkedIn: **linkedin.com/in/islam-hani-2572131ab**</li>
   <li>GitHub: [github.com/islamhanii](https://github.com/islamhanii)</li>
   <li>LeetCode: [leetcode.com/islamhani433](https://leetcode.com/islamhani433)</li>
 </ul>
