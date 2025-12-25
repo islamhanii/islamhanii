@@ -164,7 +164,6 @@ I focus on:
 - 💼 LinkedIn: <https://www.linkedin.com/in/islam-hani-2572131ab/>
 - 🧠 LeetCode: <https://leetcode.com/u/islamhani433/>
 - 🧾 Portfolio: <https://drive.google.com/file/d/18N3PC9aZl_GEbDHXt1VRV2M5Ti4P4DUG/view>
-- 🧑‍💻 GitHub: <https://github.com/islamhanii>
 
 ---
 
