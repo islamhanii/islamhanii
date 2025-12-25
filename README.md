@@ -38,12 +38,10 @@ I focus on:
 <p align="left">
   <a href="https://www.php.net/docs.php" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-         alt="PHP" width="40" height="40"/>
-  </a>
+         alt="PHP" width="40" height="40"/></a>
   <a href="https://laravel.com/docs" target="_blank" rel="noreferrer">
     <img src="https://laravel.com/img/logomark.min.svg"
-         alt="Laravel" width="40" height="40"/>
-  </a>
+         alt="Laravel" width="40" height="40"/></a>
 </p>
 
 ### Databases (Expert)
@@ -51,24 +49,19 @@ I focus on:
 <p align="left">
   <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/islamhanii/islamhanii/main/Stonebranch_SQL_Vendor_Product_Logo.svg.png"
-         alt="sql" width="40" height="40"/>
-  </a>
+         alt="sql" width="40" height="40"/></a>
   <a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-         alt="mysql" width="40" height="40"/>
-  </a>
+         alt="mysql" width="40" height="40"/></a>
   <a href="https://www.sqlite.org/docs.html" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"
-       alt="SQLite" width="40" height="40"/>
-</a>
+       alt="SQLite" width="40" height="40"/></a>
   <a href="https://www.postgresql.org/docs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-         alt="PostgreSQL" width="40" height="40"/>
-  </a>
+         alt="PostgreSQL" width="40" height="40"/></a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
-         alt="SQL Server" width="40" height="40"/>
-  </a>
+         alt="SQL Server" width="40" height="40"/></a>
 </p>
 
 ### Frontend (Supporting / Intermediate)
@@ -76,36 +69,28 @@ I focus on:
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-         alt="html5" width="40" height="40"/>
-  </a>
+         alt="html5" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-         alt="css3" width="40" height="40"/>
-  </a>
+         alt="css3" width="40" height="40"/></a>
   <a href="https://getbootstrap.com/docs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-         alt="bootstrap" width="40" height="40"/>
-  </a>
+         alt="bootstrap" width="40" height="40"/></a>
   <a href="https://tailwindcss.com/docs" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"
-         alt="tailwind" width="40" height="40"/>
-  </a>
+         alt="tailwind" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-         alt="javascript" width="40" height="40"/>
-  </a>
+         alt="javascript" width="40" height="40"/></a>
   <a href="https://jquery.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg"
-         alt="jquery" width="40" height="40"/>
-  </a>
+         alt="jquery" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/AJAX" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/128/590/590689.png"
-         alt="AJAX" width="40" height="40"/>
-  </a>
+         alt="AJAX" width="40" height="40"/></a>
   <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/128/14996/14996020.png"
-         alt="JSON" width="40" height="40"/>
-  </a>
+         alt="JSON" width="40" height="40"/></a>
 </p>
 
 ### Cloud & Tools
@@ -113,24 +98,19 @@ I focus on:
 <p align="left">
   <a href="https://docs.aws.amazon.com/s3/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"
-         alt="aws s3" width="40" height="40"/>
-  </a>
+         alt="aws s3" width="40" height="40"/></a>
   <a href="https://git-scm.com/doc" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-         alt="git" width="40" height="40"/>
-  </a>
+         alt="git" width="40" height="40"/></a>
   <a href="https://learning.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-         alt="postman" width="40" height="40"/>
-  </a>
+         alt="postman" width="40" height="40"/></a>
   <a href="https://docs.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
-         alt="docker" width="40" height="40"/>
-  </a>
+         alt="docker" width="40" height="40"/></a>
   <a href="https://code.visualstudio.com/docs" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"
-         alt="vs code" width="40" height="40"/>
-  </a>
+         alt="vs code" width="40" height="40"/></a>
 </p>
 
 ### Other Languages / Fields (Familiar / Learning)
@@ -138,28 +118,22 @@ I focus on:
 <p align="left">
   <a href="https://www.python.org/doc/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-         alt="python" width="40" height="40"/>
-  </a>
+         alt="python" width="40" height="40"/></a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-         alt="c" width="40" height="40"/>
-  </a>
+         alt="c" width="40" height="40"/></a>
   <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-         alt="c++" width="40" height="40"/>
-  </a>
+         alt="c++" width="40" height="40"/></a>
   <a href="https://www.java.com/en/docs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-         alt="java" width="40" height="40"/>
-  </a>
+         alt="java" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank" rel="noreferrer">
-  <img src="https://cdn-icons-png.flaticon.com/128/12133/12133548.png"
-       alt="AI" width="40" height="40"/>
-</a>
+    <img src="https://cdn-icons-png.flaticon.com/128/12133/12133548.png"
+        alt="AI" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/Embedded_system" target="_blank" rel="noreferrer">
-  <img src="https://cdn-icons-png.flaticon.com/128/2752/2752878.png"
-       alt="Embedded Systems" width="40" height="40"/>
-</a>
+    <img src="https://cdn-icons-png.flaticon.com/128/2752/2752878.png"
+        alt="Embedded Systems" width="40" height="40"/></a>
 </p>
 
 ---
