@@ -35,7 +35,7 @@ I focus on:
 
 ### Backend (Expert)
 
-<p align="left">
+<p style="display:flex">
   <a href="https://www.php.net/docs.php" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
          alt="PHP" width="40" height="40"/></a>
