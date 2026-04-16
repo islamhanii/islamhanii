@@ -92,10 +92,10 @@ Over the past years, I’ve worked on systems like:
 ## 📊 GitHub Stats
 ![Views](https://komarev.com/ghpvc/?username=islamhanii&style=for-the-badge)                                                                                             
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=islamhanii&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=islamhanii&theme=tokyonight)
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=islamhanii&theme=tokyonight)
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=islamhanii&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=islamhanii&theme=tokyonight)
 ![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=islamhanii&theme=tokyonight&utcOffset=2)
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=islamhanii&theme=tokyonight)
 ---
 
 > *“First, solve the problem. Then, write the code.”*
