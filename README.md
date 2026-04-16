@@ -2,6 +2,26 @@
 
 <h3 align="center">Backend Developer | PHP (Laravel) Specialist</h3>
 
+<p align="center">
+
+<a href="mailto:islamhani433@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/islam-hani-2572131ab/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/islamhani433/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<a href="https://drive.google.com/file/d/1RqqR6LBe-Yd3XxzoB4qagOtFw80Ey8H-/view?usp=drive_link" target="_blank">
+  <img src="https://img.shields.io/badge/CV-Download-6C63FF?style=for-the-badge&logo=googledrive&logoColor=white" />
+</a>
+
+</p>
+
 🎓 IT Graduate — Faculty of Computers & Artificial Intelligence (FCAI), Cairo University  
 🚀 Backend Developer specialized in **scalable systems**, **RESTful APIs**, and **clean architecture**  
 💡 Passionate about building **robust backend platforms**, real-time systems, and business-driven solutions  
@@ -32,30 +52,6 @@ Over the past years, I’ve worked on systems like:
 🗄️ Database optimization & schema design  
 📡 Real-time systems & integrations  
 🚀 Scalable Laravel-based architectures  
-
----
-
-## 📫 Contact & Links
-
-<p align="left">
-
-<a href="mailto:islamhani433@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/islam-hani-2572131ab/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://leetcode.com/u/islamhani433/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-
-<a href="https://drive.google.com/file/d/1RqqR6LBe-Yd3XxzoB4qagOtFw80Ey8H-/view?usp=drive_link" target="_blank">
-  <img src="https://img.shields.io/badge/CV-Download-6C63FF?style=for-the-badge&logo=googledrive&logoColor=white" />
-</a>
-
-</p>
 
 ---
 
@@ -93,25 +89,15 @@ Over the past years, I’ve worked on systems like:
 
 ---
 
-## 🧠 Core Skills
-
-- RESTful API Design & Development
-- Clean Architecture & Repository Pattern
-- SOLID Principles & Design Patterns
-- Payment Gateway Integrations
-- Multi-language Systems (AR / EN / UR / ID / ...)
-- Real-time Features & Notifications
-- Performance Optimization & Caching
-- Git / GitFlow
-
----
-
 ## 📊 GitHub Stats
-
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=islamhanii)
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=islamhanii)
-![Repositories per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=islamhanii)
-
+![Views](https://komarev.com/ghpvc/?username=islamhanii&style=for-the-badge)                                                                                             
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=islamhanii&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=islamhanii&theme=tokyonight)
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=islamhanii&theme=tokyonight)
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=islamhanii&theme=tokyonight)
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=islamhanii&theme=tokyonight&utcOffset=2)
 ---
 
 > *“First, solve the problem. Then, write the code.”*
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&color="a349a4")](https://github.com/karengonzalezdev)
