@@ -1,6 +1,6 @@
-# 👋 Hi, I’m Islam Hani
+<h1 align="center">👋 Hi, I’m Islam Hani</h1>
 
-### Backend Developer | PHP (Laravel) Specialist
+<h3 align="center">Backend Developer | PHP (Laravel) Specialist</h3>
 
 🎓 IT Graduate — Faculty of Computers & Artificial Intelligence (FCAI), Cairo University  
 🚀 Backend Developer specialized in **scalable systems**, **RESTful APIs**, and **clean architecture**  
@@ -51,7 +51,7 @@ Over the past years, I’ve worked on systems like:
   <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
-<a href="https://drive.google.com/file/d/18N3PC9aZl_GEbDHXt1VRV2M5Ti4P4DUG/view" target="_blank">
+<a href="https://drive.google.com/file/d/1RqqR6LBe-Yd3XxzoB4qagOtFw80Ey8H-/view?usp=drive_link" target="_blank">
   <img src="https://img.shields.io/badge/CV-Download-6C63FF?style=for-the-badge&logo=googledrive&logoColor=white" />
 </a>
 
