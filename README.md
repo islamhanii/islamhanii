@@ -100,4 +100,4 @@ Over the past years, I’ve worked on systems like:
 
 > *“First, solve the problem. Then, write the code.”*
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&color="a349a4")](https://github.com/karengonzalezdev)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&color="a349a4")](https://github.com/islamhanii)
